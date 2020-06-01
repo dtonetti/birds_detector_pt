@@ -1,6 +1,5 @@
 # Classificador de Espécies de Passáros
 Esse notebook é inspirado na primeira aula do curso da fast.ai Practical Deep Learning for Coders.
-This notebook is inspired in the first class of fast.ai **Practical Deep Learning for Coders** course.
 
 O objetivo deste projeto é constuir uma aplicação de machine learning que consiga classificar imagens de 9 diferentes espécies brasileiras. Para isso utilizei a biblioteca fast.ai e a técnica transfer-learning.
 
